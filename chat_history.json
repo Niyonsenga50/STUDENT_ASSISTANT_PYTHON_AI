@@ -1,0 +1,303 @@
+[
+  {
+    "id": "fd1d60bee3e2",
+    "title": "what are types machine learning",
+    "source": "AI_With_Python_handout.pdf",
+    "created": "2026-10-07 19:26",
+    "updated": "2026-10-07 19:26",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what are types machine learning"
+      },
+      {
+        "role": "assistant",
+        "content": "1.1.2 Types of Machine Learning ➢ Supervised Learning Supervised learning uses labeled data (data with known answers) to train algorithms to: • Classify Data • Predict Outcomes Supervised learning ca n classify data like \"What is spam in an e -mail\", based on known spam examples. [1]\n\nIn contrast, machine learning algorithms learn patterns and relationships from data, enabling them to make predictions or decisions without being explicitly programmed for each scenario. [2]\n\nA dataset acts as an example to teach the machine learning algorithm how to make predictions. [3]",
+        "references": [
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 105",
+            "content": "Neural networks, also called artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are the backbone of deep learning algorithms. They are called “neural” because they mimic how neurons in the brain signal one another. 1.1.2 Types of Machine Learning ➢ Supervised Learning Supervised learning uses labeled data (data with known answers) to train algorithms to: • Classify Data • Predict Outcomes Supervised learning ca n classify data like \"What is spam in an e -mail\", based on known spam examples. Supervised learning can predict outcomes like predicting what kind of video you like, based on the videos you have played. ➢ Unsupervised Learning In this type, the algorithm is given unlabeled data and must find patterns or relationships within the data on its own. Clustering and dimensionality reduction are common tasks in unsupervised learning. Unsupervised learning is used to predict undefined relationships like meaningful patterns in data.",
+            "score": 0.5212092995643616
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 100",
+            "content": "import numpy as np arr = np.array([1, 2, 3, 4, 5]) print(arr) print(type(arr)) Part 2 Fundamentals of AI 1.1 Introduction to machine learning 1.1.1 Machine learning overview Definition Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to perform a task without explicit programming. The primary goal of machine learning is to allow computers to learn from data and improve their performance over time. In traditional programming, humans explicitly write code to instruct a computer on how to perform a specific task. In contrast, machine learning algorithms learn patterns and relationships from data, enabling them to make predictions or decisions without being explicitly programmed for each scenario. Machine learning life cycle The machine learning lifecycle encompasses the entire process of developing, deploying, and maintaining a machine learning model.",
+            "score": 0.5194699764251709
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 111",
+            "content": "Avoiding Overfitting : Including diverse examp les reduces the risk of overfitting to specific patterns present in the training data but not applicable to new instances. Variability contributes to better generalization, allowing the model to make accurate predictions across different contexts 1.3.4 Types of datasets A machine learning dataset is a collection of data that is used to train the model. A dataset acts as an example to teach the machine learning algorithm how to make predictions. The common types of data include. • Text data • Image data • Audio data • Video data • Numeric data Source of Dataset Sourcing a dataset depends on the requirements and scope of the project. If your project does not require highly personalized data, some common datasets that can be sourced from vendors for different types of projects. 1. Natural language processing datasets Datasets are used for, text analytics, and language translation.",
+            "score": 0.5111854672431946
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 102",
+            "content": "Machine learning is used in image recognition for tasks such as facial recognition, object detection, and image classification. Similarly, it is applied in speech recognition fo r converting spoken language into text. Natural Language Processing (NLP) NLP involves the interaction between computers and human language. Machine learning is applied in tasks such as sentiment analysis, language translation, chatbots, and text summarization. Healthcare Machine learning is employed for p redictive analytics, disease identification, personalized treatment plans, drug discovery, and medical image analysis, improving diagnostics and patient care. Finance: In finance, machine learning is used for credit scoring, fraud detection, algorithmic tr ading, portfolio management, and risk assessment. These applications help optimize financial processes and enhance decision-making. Recommendation Systems E-commerce platforms, streaming services, and cont ent providers use machine learning to create recommendation systems that suggest products, movies, or content based on user preferences and behavior.",
+            "score": 0.5067518949508667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "02946a0c21a1",
+    "title": "what is environment",
+    "source": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+    "created": "2026-10-07 18:49",
+    "updated": "2026-10-07 18:49",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is environment"
+      },
+      {
+        "role": "assistant",
+        "content": "DIFFERENT KEY TERMS Environment: Environment can be defined as a sum total of all the living and non -living elements and their effects that influence human life. [1]\n\nEnvironment of Earth: Everything in our immediate surroundings, including both living and nonliving things like soil, water, creatures, and plants that adapt to their conditions, is referred to as the “environment.” It is a gift from nature that helps to sustain life on Earth. [1]\n\nENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. [3]",
+        "references": [
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 17",
+            "content": "Page 16 1.2.1. DIFFERENT KEY TERMS Environment: Environment can be defined as a sum total of all the living and non -living elements and their effects that influence human life. While all living or biotic elements are animals, plants, forests, fisheries, and birds, non -living or abiotic elements include water, land, sunlight, rocks, and air. Environment of Earth: Everything in our immediate surroundings, including both living and nonliving things like soil, water, creatures, and plants that adapt to their conditions, is referred to as the “environment.” It is a gift from nature that helps to sustain life on Earth. 1.2.2. COMPONENTS OF ENVIRONMENT ON EARTH The three main elements of the environment are the lithosphere, atmosphere, and hydrosphere. The lithosphere is the term for the solid portion of the earth. The earth is surrounded by gaseous layers that make up the atmosphere. The atmosphere is composed of gases including oxygen, nitrogen, carbon dioxide, and others.",
+            "score": 0.7010419368743896
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 5",
+            "content": "TYPES OF ENVIRONMENTS ✓ Natural environment: The natural environment consists of land -based ecosystems such as grasslands and forests, aquatic ecosystems such as rivers and wetlands, and coastal and marine ecosystems such as mangroves and sea -grass meadows. Ecosystems include animals and plants and the interactions they have with each other and their physical environment. Climatic conditions, particularly rainfall patterns and fire regimes, strongly affect the type and extent of an ecosystem and the animals and plants that are present. Note that Land, air, water, plants and animals all comprise the natural environment. Let us learn about the different domains of the natural environment. These are found in these four components which are lithosphere, hydrosphere, atmosphere and biosphere. ✓ Man-made or Built environment: The built environment touches all aspects of our lives, encompassing the buildings we live in, the distribution systems that provide us with water",
+            "score": 0.6946370005607605
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 3",
+            "content": "Page 2 LEARNING OUTCOME 1.1: EXPLAIN THE BASICS OF ENVIRONMENTAL MANAGEMENT 1.1.1. ENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. Management: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. Environmental management: Environmental Management means a process to efficiently and systematically consume the environment by planning, operating, monitoring, improving, and enhancing, which concerns saving, highest utilizing, sustainability, longlasting, and providing the most beneficial to humans and nature.",
+            "score": 0.6629126071929932
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 6",
+            "content": "✓ Social environment: A person’s social environment is their society and all surroundings are influenced in some way by humans. It includes all relationships, institutions, religions, culture, leisure, and physical structures. Also, the social environment includes the groups to which we belong, the neighborhoods in which we live, the organization of our workplaces, and the policies we create to order our lives. The natural environment is the natural world around us: the ground, the trees, and the air. The social environment is, collectively, all of the things that humans have overlaid on top of our world: our personal and societal relationships, our institutions, our cultures, and our physical surroundings all of the aspects and products of human activity and interaction. 1.1.4. COMPONENTS OF THE ENVIRONMENT Physical elements: The physical component refers to the non-living part of the environment.",
+            "score": 0.636359453201294
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "584d63f667d9",
+    "title": "what is environment",
+    "source": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+    "created": "2026-10-07 09:13",
+    "updated": "2026-10-07 09:13",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is environment"
+      },
+      {
+        "role": "assistant",
+        "content": "DIFFERENT KEY TERMS Environment: Environment can be defined as a sum total of all the living and non -living elements and their effects that influence human life. [1]\n\nEnvironment of Earth: Everything in our immediate surroundings, including both living and nonliving things like soil, water, creatures, and plants that adapt to their conditions, is referred to as the “environment.” It is a gift from nature that helps to sustain life on Earth. [1]\n\nENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. [3]",
+        "references": [
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 17",
+            "content": "Page 16 1.2.1. DIFFERENT KEY TERMS Environment: Environment can be defined as a sum total of all the living and non -living elements and their effects that influence human life. While all living or biotic elements are animals, plants, forests, fisheries, and birds, non -living or abiotic elements include water, land, sunlight, rocks, and air. Environment of Earth: Everything in our immediate surroundings, including both living and nonliving things like soil, water, creatures, and plants that adapt to their conditions, is referred to as the “environment.” It is a gift from nature that helps to sustain life on Earth. 1.2.2. COMPONENTS OF ENVIRONMENT ON EARTH The three main elements of the environment are the lithosphere, atmosphere, and hydrosphere. The lithosphere is the term for the solid portion of the earth. The earth is surrounded by gaseous layers that make up the atmosphere. The atmosphere is composed of gases including oxygen, nitrogen, carbon dioxide, and others.",
+            "score": 0.7010419368743896
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 5",
+            "content": "TYPES OF ENVIRONMENTS ✓ Natural environment: The natural environment consists of land -based ecosystems such as grasslands and forests, aquatic ecosystems such as rivers and wetlands, and coastal and marine ecosystems such as mangroves and sea -grass meadows. Ecosystems include animals and plants and the interactions they have with each other and their physical environment. Climatic conditions, particularly rainfall patterns and fire regimes, strongly affect the type and extent of an ecosystem and the animals and plants that are present. Note that Land, air, water, plants and animals all comprise the natural environment. Let us learn about the different domains of the natural environment. These are found in these four components which are lithosphere, hydrosphere, atmosphere and biosphere. ✓ Man-made or Built environment: The built environment touches all aspects of our lives, encompassing the buildings we live in, the distribution systems that provide us with water",
+            "score": 0.6946370005607605
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 3",
+            "content": "Page 2 LEARNING OUTCOME 1.1: EXPLAIN THE BASICS OF ENVIRONMENTAL MANAGEMENT 1.1.1. ENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. Management: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. Environmental management: Environmental Management means a process to efficiently and systematically consume the environment by planning, operating, monitoring, improving, and enhancing, which concerns saving, highest utilizing, sustainability, longlasting, and providing the most beneficial to humans and nature.",
+            "score": 0.6629126071929932
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 6",
+            "content": "✓ Social environment: A person’s social environment is their society and all surroundings are influenced in some way by humans. It includes all relationships, institutions, religions, culture, leisure, and physical structures. Also, the social environment includes the groups to which we belong, the neighborhoods in which we live, the organization of our workplaces, and the policies we create to order our lives. The natural environment is the natural world around us: the ground, the trees, and the air. The social environment is, collectively, all of the things that humans have overlaid on top of our world: our personal and societal relationships, our institutions, our cultures, and our physical surroundings all of the aspects and products of human activity and interaction. 1.1.4. COMPONENTS OF THE ENVIRONMENT Physical elements: The physical component refers to the non-living part of the environment.",
+            "score": 0.636359453201294
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3ff377605ec6",
+    "title": "what is management",
+    "source": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+    "created": "2026-10-05 10:28",
+    "updated": "2026-10-05 10:28",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is management"
+      },
+      {
+        "role": "assistant",
+        "content": "Management: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. [1]\n\nManagement: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. [2]\n\nEnvironmental management: Environmental Management means a process to efficiently and systematically consume the environment by planning, operating, monitoring, improving, and enhancing, which concerns saving, highest utilizing, sustainability, longlasting, and providing the most beneficial to humans and nature. [2]",
+        "references": [
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 3",
+            "content": "Management: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. Environmental management: Environmental Management means a process to efficiently and systematically consume the environment by planning, operating, monitoring, improving, and enhancing, which concerns saving, highest utilizing, sustainability, longlasting, and providing the most beneficial to humans and nature. Environmental policy: any measure by a government or corporation or other public or private organization regarding the effects of human activities on the environment, particularly those measures that are designed to prevent or reduce harmful effects of human activities on ecosystems. An ecosystem is a term that is commonly used in biology and environmental studies.",
+            "score": 0.561518669128418
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 3",
+            "content": "Page 2 LEARNING OUTCOME 1.1: EXPLAIN THE BASICS OF ENVIRONMENTAL MANAGEMENT 1.1.1. ENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. Management: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. Environmental management: Environmental Management means a process to efficiently and systematically consume the environment by planning, operating, monitoring, improving, and enhancing, which concerns saving, highest utilizing, sustainability, longlasting, and providing the most beneficial to humans and nature.",
+            "score": 0.4933346211910248
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 4",
+            "content": "2. It supports sustainable development; It improves the quality of human life, It minimizes the depletion of natural resources, It teaches us to respect and care for all life forms, Checking the pollution levels, Making arrangements so that the future generation is able to meet their own demands 3. It demands a multidisciplinary approach; 4. It has to integrate different development viewpoints; 5. It concerns with short-term and long-term planning as well as from local to global scale; and 6. It seeks to integrate natural and social science, policy-making, and planning. Purpose of environmental management: An EMS helps your organization achieve environmental goals and systematically address regulatory requirements in a cost-effective manner. It provides a proactive approach to working towards environmental targets, reducing risk, and improving health and saf ety practices. Better yet, an Environmental Management System can help your company address and work towards non -regulated issues that are more important globally, like energy conservation.",
+            "score": 0.43021175265312195
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 4",
+            "content": "It provides a proactive approach to working towards environmental targets, reducing risk, and improving health and saf ety practices. Better yet, an Environmental Management System can help your company address and work towards non -regulated issues that are more important globally, like energy conservation. Advantages to undertaking Environmental management: Most advantages of an EMS system from savings your business can make, increased profitability, and better sales opportunities: • Better regulatory compliance - running an EMS will help ensure your environmental legal responsibilities are met and more easily managed on a day-to-day basis.",
+            "score": 0.42974039912223816
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1b20e9c54db5",
+    "title": "what  is environment",
+    "source": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+    "created": "2026-10-05 10:25",
+    "updated": "2026-10-05 10:25",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what  is environment"
+      },
+      {
+        "role": "assistant",
+        "content": "DIFFERENT KEY TERMS Environment: Environment can be defined as a sum total of all the living and non -living elements and their effects that influence human life. [1]\n\nEnvironment of Earth: Everything in our immediate surroundings, including both living and nonliving things like soil, water, creatures, and plants that adapt to their conditions, is referred to as the “environment.” It is a gift from nature that helps to sustain life on Earth. [1]\n\nENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. [3]",
+        "references": [
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 17",
+            "content": "Page 16 1.2.1. DIFFERENT KEY TERMS Environment: Environment can be defined as a sum total of all the living and non -living elements and their effects that influence human life. While all living or biotic elements are animals, plants, forests, fisheries, and birds, non -living or abiotic elements include water, land, sunlight, rocks, and air. Environment of Earth: Everything in our immediate surroundings, including both living and nonliving things like soil, water, creatures, and plants that adapt to their conditions, is referred to as the “environment.” It is a gift from nature that helps to sustain life on Earth. 1.2.2. COMPONENTS OF ENVIRONMENT ON EARTH The three main elements of the environment are the lithosphere, atmosphere, and hydrosphere. The lithosphere is the term for the solid portion of the earth. The earth is surrounded by gaseous layers that make up the atmosphere. The atmosphere is composed of gases including oxygen, nitrogen, carbon dioxide, and others.",
+            "score": 0.7010419368743896
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 5",
+            "content": "TYPES OF ENVIRONMENTS ✓ Natural environment: The natural environment consists of land -based ecosystems such as grasslands and forests, aquatic ecosystems such as rivers and wetlands, and coastal and marine ecosystems such as mangroves and sea -grass meadows. Ecosystems include animals and plants and the interactions they have with each other and their physical environment. Climatic conditions, particularly rainfall patterns and fire regimes, strongly affect the type and extent of an ecosystem and the animals and plants that are present. Note that Land, air, water, plants and animals all comprise the natural environment. Let us learn about the different domains of the natural environment. These are found in these four components which are lithosphere, hydrosphere, atmosphere and biosphere. ✓ Man-made or Built environment: The built environment touches all aspects of our lives, encompassing the buildings we live in, the distribution systems that provide us with water",
+            "score": 0.6946370005607605
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 3",
+            "content": "Page 2 LEARNING OUTCOME 1.1: EXPLAIN THE BASICS OF ENVIRONMENTAL MANAGEMENT 1.1.1. ENVIRONMENTAL MANAGEMENT KEY TERMS Environment: Environment is a set of physical, chemical, and biological elements as well as socio-economic, cultural, aesthetic, and intellectual factors likely to have a direct or indirect, immediate or long -term impact on the development of the environment, human beings, and human activities. Management: Management is a set of principles relating to the functions of planning, organizing, directing, and controlling, and the application of these principles in harnessing physical, financial, human, and informational resources efficiently and effectively to achieve organizational goals. Environmental management: Environmental Management means a process to efficiently and systematically consume the environment by planning, operating, monitoring, improving, and enhancing, which concerns saving, highest utilizing, sustainability, longlasting, and providing the most beneficial to humans and nature.",
+            "score": 0.6629126071929932
+          },
+          {
+            "filename": "WORKPLACE ENVIRONMENTAL MANAGEMENT HANDOUT.pdf",
+            "page": "Page 6",
+            "content": "✓ Social environment: A person’s social environment is their society and all surroundings are influenced in some way by humans. It includes all relationships, institutions, religions, culture, leisure, and physical structures. Also, the social environment includes the groups to which we belong, the neighborhoods in which we live, the organization of our workplaces, and the policies we create to order our lives. The natural environment is the natural world around us: the ground, the trees, and the air. The social environment is, collectively, all of the things that humans have overlaid on top of our world: our personal and societal relationships, our institutions, our cultures, and our physical surroundings all of the aspects and products of human activity and interaction. 1.1.4. COMPONENTS OF THE ENVIRONMENT Physical elements: The physical component refers to the non-living part of the environment.",
+            "score": 0.636359453201294
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6734221b5e07",
+    "title": "what is ML",
+    "source": "AI_With_Python_handout.pdf",
+    "created": "2026-10-03 12:47",
+    "updated": "2026-10-03 12:47",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is ML"
+      },
+      {
+        "role": "assistant",
+        "content": "In the case of ML, such blunders can set off a chain of errors that can go undetected for long periods of time. [1]\n\nimport numpy as np arr = np.array([1, 2, 3, 4, 5]) print(arr) print(type(arr)) Part 2 Fundamentals of AI 1.1 Introduction to machine learning 1.1.1 Machine learning overview Definition Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to perform a task without explicit programming. [3]\n\n2 No human intervention needed (automation) With ML, you don’t need to babysit your project every step of the way. [4]",
+        "references": [
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 103",
+            "content": "In the case of ML, such blunders can set off a chain of errors that can go undetected for long periods of time. And when they do get noticed, it takes quite some time to recognize the source of the issue, and even longer to correct it. 1.1.4 Difference between machine learning, artificial intelligence, and deep learning Here is an illustration designed to help us understand the fundamental differences between artificial intelligence, machine learning, and deep learning.",
+            "score": 0.3748703896999359
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 103",
+            "content": "their own. A common example of this is anti-virus softwares; they learn to filter new threats as they are recognized. ML is also good at recognizing spam. 3 Handling multi-dimensional and multi-variety data Machine Learning algorithms are good at handling data that are multi-dimensional and multivariety, and they can do this in d Disadvantages of Machine Learning With all those advantages to its powerfulness and popularity, Machine Learning isn’t perfect. The following factors serve to limit it 1. Data Acquisition Machine Learning requires massive data sets to train on, and these should be inclusive/unbiased, and of good quality. There can also be times where they must wait for new data to be generated. 2. Time and Resources ML needs enough time to let the algorithms learn and develop enough to fulfill their purpose with a considerable amount of accuracy and relevancy. It also needs massive resources to function.",
+            "score": 0.3660244643688202
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 100",
+            "content": "import numpy as np arr = np.array([1, 2, 3, 4, 5]) print(arr) print(type(arr)) Part 2 Fundamentals of AI 1.1 Introduction to machine learning 1.1.1 Machine learning overview Definition Machine Learning (ML) is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to perform a task without explicit programming. The primary goal of machine learning is to allow computers to learn from data and improve their performance over time. In traditional programming, humans explicitly write code to instruct a computer on how to perform a specific task. In contrast, machine learning algorithms learn patterns and relationships from data, enabling them to make predictions or decisions without being explicitly programmed for each scenario. Machine learning life cycle The machine learning lifecycle encompasses the entire process of developing, deploying, and maintaining a machine learning model.",
+            "score": 0.3562096357345581
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 102",
+            "content": "1.1.3 Advantages and disadvantages 1 Easily identifies trends and patterns Machine Learning can review large volumes of data and discover specific trends and patterns that would not be apparent to humans. For instance, for an e-commerce website like Amazon, it serves to understand the browsing behaviors and purchase histories of its users to help cater to the right products, deals, and reminders relevant to them. It uses the results to reveal relevant advertisements to them. 2 No human intervention needed (automation) With ML, you don’t need to babysit your project every step of the way. Since it means giving machines the ability to learn, it lets them make predictions and also improve the algorithms on",
+            "score": 0.3328726291656494
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8543b211def4",
+    "title": "what is pop",
+    "source": "AI_With_Python_handout.pdf",
+    "created": "2026-10-03 12:00",
+    "updated": "2026-10-03 12:00",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what is pop"
+      },
+      {
+        "role": "assistant",
+        "content": "You can also use the pop() method to remove an item, but this method will remove a random item, so you cannot be sure what item that gets removed. [2]\n\nThe return value of the pop() method is the removed item. [2]\n\nExample Remove a random item by using the pop() method: [2]",
+        "references": [
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 106",
+            "content": "• LISP • R • Python • C++ • Java • JavaScript • LISP LISP is the second oldest programming language in the world (1958), one year younger than Fortran (1957). The term Artificial Intelligence was made up by John McCarthy who invented LISP. LISP was founded on the theory of Recursive Functions (a function appears in its own definition). Recursive Functions can be written as self-modifying functions, and this is very suitable for Machine Learning programs where \"self-learning\" is an important part of the program The R Language R is a programming language for Graphics and Statistical computing. R comes with a wide set of statistical and graphical techniques for: • Linear Modeling • Nonlinear Modeling • Statistical Tests • Time-series Analysis • Classification • Clustering Python Python is a general-purpose coding language. It can be used for all types of programming and software development.",
+            "score": 0.2666385769844055
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 43",
+            "content": "Example Remove \"banana\" by using the remove() method: thisset = {\"apple\", \"banana\", \"cherry\"} thisset.remove(\"banana\") print(thisset) Example Remove \"banana\" by using the discard() method: thisset = {\"apple\", \"banana\", \"cherry\"} thisset.discard(\"banana\") print(thisset) Note: If the item to remove does not exist, discard() will NOT raise an error. You can also use the pop() method to remove an item, but this method will remove a random item, so you cannot be sure what item that gets removed. The return value of the pop() method is the removed item. Example Remove a random item by using the pop() method:",
+            "score": 0.23798179626464844
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 32",
+            "content": "Example Remove the second item: thislist = [\"apple\", \"banana\", \"cherry\"] thislist.pop(1) print(thislist) If you do not specify the index, the pop() method removes the last item. Example Remove the last item: thislist = [\"apple\", \"banana\", \"cherry\"] thislist.pop() print(thislist) The del keyword also removes the specified index: Example Remove the first item: thislist = [\"apple\", \"banana\", \"cherry\"] del thislist[0] print(thislist) The del keyword can also delete the list completely. Example Delete the entire list: thislist = [\"apple\", \"banana\", \"cherry\"] del thislist Clear the List The clear() method empties the list. The list still remains, but it has no content. Example Clear the list content: thislist = [\"apple\", \"banana\", \"cherry\"] thislist.clear() print(thislist) Copy a List You cannot copy a list simply by typing list2 = list1, because: list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2.",
+            "score": 0.17215301096439362
+          },
+          {
+            "filename": "AI_With_Python_handout.pdf",
+            "page": "Page 115",
+            "content": "It establishes a relationship between the dependent variable y and one or more independent variables x using a best-fit line. The algorithm operates based on the principle of Ordinary Least Squares (OLS) or Mean Square Error (MSE). In statistics, OLS is a method for estimating unknown parameters of the linear regression function, with its objective being to minimize the sum of square differences between the observed dependent variable in the given dataset and those predicted by the linear regression function.",
+            "score": 0.15833434462547302
+          }
+        ]
+      }
+    ]
+  }
+]
